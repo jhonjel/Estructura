@@ -147,7 +147,7 @@ int menu(){
 	{
 		
         cout<<""<<endl;
-		cout<<"------HOSPITAL------  \n ";
+		cout<<"------Registro de atletas------  \n ";
 		cout<<"Menu Principal \n";
 		cout<<"1. Registro  \n";
 		cout<<"2. Mostrar \n";
